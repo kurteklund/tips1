@@ -4,3 +4,6 @@ language = "sv"
 multilingual = false
 src = "src"
 title = "Tips 1"
+
+[build]
+build-dir = "docs"
