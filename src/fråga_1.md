@@ -1,7 +1,7 @@
 # Fråga 1
 
-Vad är 2+3?
+Vad betyder "Taekwondo"?
 
-1. 4
-2. 5
-3. 6
+**1** Fotens och handens väg.
+**X** Självförsvar med fot och hand.
+**2** Kamp med fot och hand.

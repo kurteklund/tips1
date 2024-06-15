@@ -1,7 +1,7 @@
 # Fråga 2
 
-Vilket år blev Gustav Vasa kung?
+Slaking är Pokemonen med högst CP, men vad exakt är dess maximala CP?
 
-1. 1521
-2. 1621
-3. 1721
+**1** 4278 CP.
+**X** 4329 CP.
+**2** 4431 CP.
